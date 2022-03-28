@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-//Jihan Rahadatul Aisy (2031710034)
+import 'package:flutter/material
 
 class Result extends StatelessWidget {
   const Result({
